@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Melo\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Melo\\.nuget\\packages"
+    ]
+  }
+}
